@@ -47,6 +47,7 @@
     <Compile Include="BaseDroid.cs" />
     <Compile Include="BattleMode.cs" />
     <Compile Include="DefenderDroid.cs" />
+    <Compile Include="HealthStealerDroid.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
